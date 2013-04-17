@@ -91,3 +91,15 @@ code {
     height: 78px;
     width: auto;
 }
+table{
+    width: 100%;
+    margin: auto;
+}
+#skills-tb th{
+    text-align: center;
+    vertical-align: middle;
+}
+#skills-tb td{
+    text-align: center;
+    vertical-align: middle;
+}
